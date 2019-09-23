@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box
+}
+
+body{
+    background: rgba(84, 32, 207, 0.911);
+    font-size: 1.2rem;
+
+}
+a{
+    color:rgb(248, 176, 43)
+}
+.proposal{
+    font-size: 5rem;
+    text-decoration: underline;
+}
+img{
+    border: 1rem solid red;
+}
+.container{
+    width: 40rem;
+    margin: 0 auto;
+}
